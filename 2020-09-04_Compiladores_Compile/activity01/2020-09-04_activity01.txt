@@ -1,0 +1,28 @@
+# Atividade 1:
+- Realize uma pesquisa a respeito dos principais conceitos relacionados a Compiladores.
+- Responda as seguintes questões:
+
+## Quais linguagens de programação são compiladas? E quais os nomes dos compiladores dessas linguagens?
+- Linaguagem: Ada     |  Compiladores: GNAT
+- Linaguagem: C       |  Compiladores: Borland C, Clang, GNU GCC, MSVC, Turbo C, Watcom C, Tiny C Compiler 
+- Linaguagem: C++     |  Compiladores: Clang, G++, MinGW, MSVC
+- Linaguagem: C#      |  Compiladores: .NET Framework, Mono, DotGNU,.Net Core
+- Linaguagem: Java    |  Compiladores: GCJ, Javac
+- Linaguagem: Golang  |  Compiladores: gc, gccgo
+
+## Quais linguagens de programação são interpretadas? E quais os nomes dos interpretadores dessas linguagens?
+- Linaguagem: Python      |  Interpretadores: CPython, IronPython, Jython, PyPy, Stackless 
+- Linaguagem: JavaScript  |  Interpretadores: SpiderMonkey, V8
+- Linaguagem: Java        |  Interpretadores: JVM
+
+## Quais os principais ambientes para desenvolvimento? E para quais linguagens?
+- Access (IDE)                   - VBA (Visual Basic for Aplications)
+- Android Studio                 - Plataforma Android;
+- Arduino                        - IDE para microcontroladores linguagem wiring com bibliotecas em C.
+- DEV-C++, Code::Blocks, Turbo C - C e C++
+- Eclipse                        - Java (através de plugins, o Eclipse suporta muitas outras linguagens como Python e C / C++)
+- Intellij IDEA                  - Diversas linguagens, principalmente JAVA
+- Netbeans                       - Java (e suporta muitas outras linguagens como PHP, Python e C / C++)
+- PHP Storm                      - PHP;
+- Visual Studio                  - Framework.NET, Visual Basic.NET, C#, C++, J# e outras compatíveis com .NET
+- Xcode                          - Objective-C e Swift;
