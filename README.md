@@ -18,7 +18,7 @@
 
 ## About the Project
 
-Development of a compiler.
+Principles and techniques of building compilers.
 
 Made in College.
 
